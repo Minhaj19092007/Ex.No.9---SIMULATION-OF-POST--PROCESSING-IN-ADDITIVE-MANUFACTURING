@@ -1,6 +1,7 @@
  # Ex.No.6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-### Name: Punniyakotti.M
-### Register Number:24006503
+ ## DATE: 23-12-2025
+### Name: MINHAJ AHAMED J
+### Register Number:25006694
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
